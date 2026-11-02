@@ -1,8 +1,8 @@
 class Rtxui < Formula
   desc "C++ terminal user interfaces built from HTML templates, CSS and reactive state"
   homepage "https://github.com/ArthurSonzogni/RTXUI"
-  url "https://github.com/ArthurSonzogni/RTXUI/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "b9fdef7b50c8c70a74451e46d0a1a120d93a0badf6817e87ba33a5a72804cba4"
+  url "https://github.com/ArthurSonzogni/RTXUI/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "8f1d22342dce4160d99576b7653bb511c7d3d74aabadf9064493fb816d669707"
   license "MIT"
   head "https://github.com/ArthurSonzogni/RTXUI.git", branch: "main"
 
